@@ -1,2 +1,4 @@
-# Is-The-Uber-Worth-It-
-This project was created to address the uncertainty and inefficiency college students face when deciding whether to go out to the local bars or stay in on any given night. Made for the South Bend area and Notre Dame students.
+# Is The Uber Worth It?
+# A Notre Dame Night Out Predictor
+
+Check out the live app 👉 [southbendbarpredictor.github.io]([https://yourusername.github.io/repo-name](https://github.com/ccarls22-maker/Is-The-Uber-Worth-It-.git)
