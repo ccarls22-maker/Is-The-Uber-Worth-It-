@@ -7,7 +7,6 @@
 
 # For More information about the app and model behind it:
 ## Is it Worth the Uber? An AI Nightlife Predictor
-.
 # 1. Problem Solving & Underlying Motivation
 ##What business problem are you trying to solve?
 This project was created to address the uncertainty and inefficiency college students face when
