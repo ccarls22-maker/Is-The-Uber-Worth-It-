@@ -4,12 +4,7 @@
 🍺 **[→ Try the live app](https://ccarls22-maker.github.io/Is-The-Uber-Worth-It-/)** 🍺
 
 .
-.
-.
-.
-.
-.
-.
+
 # For More information about the app and model behind it:
 ## Is it Worth the Uber? An AI Nightlife Predictor
 .
